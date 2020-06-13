@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_toy_story</folder>
+	<filename>image110.png</filename>
+	<path>/home/ctortosam/Escritorio/dataset_toy_story/image110.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>556</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toy_story_ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>238</ymin>
+			<xmax>344</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>
